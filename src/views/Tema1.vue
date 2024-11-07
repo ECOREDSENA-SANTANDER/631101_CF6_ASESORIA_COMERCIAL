@@ -8,7 +8,7 @@
       h1 #[em Merchandising]
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.col-sm-12.col-md-12
+      .col-lg-4.col-sm-12.col-md-8
         img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-lg-8.col-sm-12.col-md-12
         p.mb-4 El #[em merchandising] es considerado, según Pérez, Pérez y Cristo (2018), como una técnica que incentiva la compra mediante la interacción del cliente con el producto. Las técnicas de comercialización han adquirido gran importancia en los puntos de venta para lograr la satisfacción con el cliente mediante incentivos de venta, lo que puede llamarse #[em merchandising] de seducción y el merchandising de gestión o de visualización.
@@ -21,19 +21,19 @@
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bgfondotema1.p-1
-            .col-4.col-md-4.col-lg-4
+            .col-4.col-md-2.col-lg-4
               img.mt-4(src='@/assets/curso/temas/tema1/tar1-1.png', alt='')
             p.text-center.p-4.mb-5 “Conjunto de técnicas coordinadas entre fabricante y distribuidor, aplicadas en el punto de venta para motivar el acto de compra de la forma más rentable para ambos, satisfaciendo las necesidades del consumidor” (Fernández y Pastor, 2007).
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bgfondotema1.p-1
-            .col-4.col-md-4.col-lg-4
+            .col-4.col-md-2.col-lg-4
               img.mt-4(src='@/assets/curso/temas/tema1/tar1-2.png', alt='')
             p.text-center.p-4.mb-4 “El merchandising es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios en las cantidades susceptibles de facilitar la consecución de los objetivos de marketing de la empresa”. (Fernández y Pastor, 2007).
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bgfondotema1.p-1
-            .col-4.col-md-4.col-lg-4
+            .col-4.col-md-2.col-lg-4
               img.mt-4(src='@/assets/curso/temas/tema1/tar1-3.png', alt='')
             p.text-center.p-4.mb-5 “El marketing evoluciona para estimular la intención de compra (el merchandising) para provocar el deseo de poseer o consumir el producto a través de un escenario con una atmósfera adaptada a la mente del consumidor” (Palomares, 2009).
 
@@ -50,7 +50,7 @@
                 .col.mb-3.mb-sm-0
                   h5.mb-0.text-white Como técnica del marketing, siempre se buscará la rentabilidad, disponibilidad, impacto, precio y exhibición.
 
-    p.mb-4 No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de ventas modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
+    p.mb-5 No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de ventas modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.col-sm-12.col-md-10
@@ -91,14 +91,15 @@
                 .col-md-10.mb-4.mb-md-0
                   p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
 
-    p.mb-4 El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
+    p.mb-5 El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
 
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .titulo-sexto.color-secundario.mb-4
-          h5 Figura 1. 
-          | Objetivos del #[em merchandising]
-        img(src='@/assets/curso/temas/tema1/fig1.png', alt='La imagen presenta tres personajes frente a una tienda de moda, dando contexto a los objetivos del merchandising, que se describen a continuación: Aumentar la demanda del producto, generar rentabilidad en el punto de venta, motivar la decisión de compra del cliente, atraer al cliente al punto de venta, y estimular el cambio de decisión del consumidor por la compra del producto.')
+    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5
+      .row.justify-content-center
+        .col-lg-10
+          .titulo-sexto.color-secundario.mb-4
+            h5 Figura 1. 
+            | Objetivos del #[em merchandising]
+          img(src='@/assets/curso/temas/tema1/fig1.png', alt='La imagen presenta tres personajes frente a una tienda de moda, dando contexto a los objetivos del merchandising, que se describen a continuación: Aumentar la demanda del producto, generar rentabilidad en el punto de venta, motivar la decisión de compra del cliente, atraer al cliente al punto de venta, y estimular el cambio de decisión del consumidor por la compra del producto.')
 
     p.mb-4 De acuerdo con su definición y objetivos, se puede determinar que la principal función del #[em merchandising] es #[b colocar, impulsar, hacer seguimiento y actualizar los productos, su exhibición y su publicidad.]
     p.mb-4 Entre las funciones del merchandising se encuentran las siguientes:
@@ -134,31 +135,179 @@
             span.mb-0 
             Uso Uso adecuado del espacio en la estantería.
 
-    .cajon.color-acento-contenido.p-5.mb-4
+    .cajon.color-acento-contenido.p-5.mb-5
       p Sin embargo, existe otro el elemento del merchandising que es importante destacar, y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca, para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto. 
 
-    p.text-center De ahí que se encuentren otras funciones que cumple el merchandising, a partir de los diferentes públicos, como se presenta a continuación:
+    p.mb-5.text-center De ahí que se encuentren otras funciones que cumple el merchandising, a partir de los diferentes públicos, como se presenta a continuación:
         
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-9.col-sm-12.col-md-12
-        p TABS
-      .col-lg-3.col-sm-12.col-md-12
+        TabsA.color-acento-botones
+          .tarjeta.color-secundario--borde.p-4(titulo="Fabricante")
+            ul.lista-ul--color.fa-al.p-3
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Diseño del empaque.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Diseño de la publicidad en el punto de venta.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Controlar la exhibición en el punto de venta.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Relaciones en el canal entre F y D (Trade marketing).
+          .tarjeta.color-secundario--borde.p-4(titulo="Distribuidor")
+            ul.lista-ul--color.fa-al.p-3
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Política de surtido y nivel de servicio: ¿qué?
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Diseñar arquitectura externa e interna: ¿dónde?
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Gestionar estratégicamente la superficie de ventas: ¿cómo?
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Gestionar rotación y rentabilidad de los productos: ¿dónde y cómo?
+          .tarjeta.color-secundario--borde.p-4(titulo="Cliente")
+            ul.lista-ul--color.fa-al.p-3
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Aspecto y presentación del negocio.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Trato y atención en el punto de venta.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Servicio posventa.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Ambiente de compra y lúdico.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Generación de placer.
+      .col-lg-3.col-sm-12.col-md-6
         img(src='@/assets/curso/temas/tema1/img4.png', alt='')
 
     separador
     #t_1_1.titulo-segundo.mb-4
       h2 1.1 Clases de #[em merchandising]
 
-    p.mb-4 No hay clasificaciones absolutas en el mundo del #[em marketing], teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[em merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
+    p.mb-5 No hay clasificaciones absolutas en el mundo del #[em marketing], teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[em merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
 
-    p TARJETAS
+    .row.mb-4
+      SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-1.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") De nacimiento
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Se define el lineal.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Primer pedido.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Colocación del producto.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-2.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") De ataque
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Ampliación del lineal.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Expansión del producto.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Aumento de la rotación.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Salida constante del producto.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-3.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") De mantenimiento
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Buena posición en el lineal.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Dedicación personalizada.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Promociones en el punto de venta.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Animaciones del lineal.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-4.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") De defensa
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Frenar la reducción del lineal.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Aumentar la animación.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Mejorar la relación con el distribuidor.
 
     p.mb-4 De la misma forma, hay clases de #[em merchandising] en relación con el ciclo de vida del producto. Existen diferentes clases de productos para cada una de las necesidades de los consumidores que, de acuerdo con sus motivaciones, los pueden adquirir en cualquier momento.
-    p.mb-4 Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
+    p.mb-5 Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
+    
+    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5
+        .row.justify-content-center
+          .col-lg-10
+            PasosA.color-primario.mb-0(tipo="n")
+              .row.align-items-center.justify-content-center
+                .col-lg
+                  h3 Productos de atracción
+                  p.mb-0 Son los más vendidos y deben distribuirse en todo el establecimiento para que el consumidor lo pueda recorrer.
+                .col-auto
+                  figure(data-aos="zoom-in")
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/ps1-1.png', alt='')
+              .row.align-items-center.justify-content-center
+                .col-auto
+                  figure(data-aos="zoom-in")
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/ps1-2.png', alt='')
+                .col-lg
+                  h3 Productos de compra racional e irracional
+                  p Los de #[b compra irracional (impulsiva)], es mejor situarlos en cajas. Los productos de #[b compra racional (reflexiva)] deben estar en una zona amplia y que no genere tensiones.
+              .row.align-items-center.justify-content-center
+                .col-lg
+                  h3 Productos complementarios
+                  p.mb-0 Son productos que complementan a otros, por ejemplo, el café puede ser complementario de la leche o viceversa. Estos productos deben situarse en secciones seguidas.
+                .col-auto
+                  figure(data-aos="zoom-in")
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/ps1-3.png', alt='')
 
-    p PASOS
-
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center
       .col-lg-4.col-sm-12.col-md-8
         img(src='@/assets/curso/temas/tema1/img5.png', alt='')
       .col-lg-8.col-sm-12.col-md-12
@@ -186,14 +335,17 @@
 
     p.mb-4 El #[em merchandising] visual aprovecha la ubicación, el recorrido y la distribución del producto en el punto de venta para motivar la venta, sea irracional (impulsiva) o racional (reflexiva). Un buen diseño del espacio permite exhibir el producto estratégicamente para que siempre esté al alcance del cliente para que cumpla un propósito en la decisión de compra.
 
-    .row.justify-content-center.mb-5
-      .col-lg-8.col-sm-12.col-md-12
-        .titulo-sexto.color-secundario.mb-4
-          h5 Figura 2. 
-          | #[em Merchandising] visual
-        img(src='@/assets/curso/temas/tema1/fig2.png', alt='La imagen presenta una estantería y sus diferentes zonas, en relación con el merchandising visual y su importancia en la ubicación de los productos para motivar la venta. Se identifican 3 zonas en diferentes colores, así: - Color violeta: zona caliente - ojos. Los productos que más se quieren vender. - Color amarillo: zona media - centro. Los productos nuevos. - Color azul: zona fría - suelo. Los productos de buena rotación, que el cliente tiene referenciados y no se necesitan mostrar.')
-        figcaption.mt-2 Nota. Tomado de Mundo constructor (2019)
+    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-4
+      .row.justify-content-center.mb-4
+        .col-lg-8.col-sm-12.col-md-12
+          .titulo-sexto.color-secundario.mb-4
+            h5 Figura 2. 
+            | #[em Merchandising] visual
+          img(src='@/assets/curso/temas/tema1/fig2.png', alt='La imagen presenta una estantería y sus diferentes zonas, en relación con el merchandising visual y su importancia en la ubicación de los productos para motivar la venta. Se identifican 3 zonas en diferentes colores, así: - Color violeta: zona caliente - ojos. Los productos que más se quieren vender. - Color amarillo: zona media - centro. Los productos nuevos. - Color azul: zona fría - suelo. Los productos de buena rotación, que el cliente tiene referenciados y no se necesitan mostrar.')
+          figcaption.mt-2 Nota. Tomado de Mundo constructor (2019)
 
+    p.mb-5 En el #[em merchandising] visual también se tienen en cuenta factores como la decoración del establecimiento, las áreas de exposición, tamaño, iluminación, entre otros.
+    
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
         img(src='@/assets/curso/temas/icono.svg', alt='')
@@ -201,7 +353,80 @@
 
     p.mb-4 Se denomina #[em merchandising] de gestión porque soporta las decisiones basado en cuatro áreas fundamentales: estudio del mercado, gestión del espacio, gestión del surtido y la comunicación en el punto de venta. Este tipo de #[em merchandising] implica los siguientes procesos:
 
-    p TARJETAS
+    .row.mb-4
+      SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-1.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") Estudio de mercado
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Análisis de las necesidades.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Segmentación de mercados.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Análisis de la competencia.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-2.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") Gestión del espacio
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Rentabilidad.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Rotación.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Beneficio.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-3.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") Gestión del surtido
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Estructura del surtido.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Dimensiones del surtido.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Gestión del surtido.
+        .tarjeta.colorazulclaro.p-4
+          .row.justify-content-center.p-4
+            .col-6
+              img(src='@/assets/curso/temas/tema1/tar1-4.png' alt='AvatarTop')
+          .row.justify-content-center
+            .col-9
+              h3.bgblanco.text-center.p-1(data-aos="fade-right") Comunicación
+          .row.justify-content-center
+            ul.lista-ul--color.fa-al.p-4
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Publicidad en el lugar de venta.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Promoción de ventas.
+              li.mb-0 
+                i.fas.fa-check-circle
+                span.mb-2 Gestión de la fuerza de ventas.
 
     p.mb-4 Un buen análisis y estudio del mercado, junto con la política comercial, una política clara de surtido y las políticas de comunicación, traen consigo la satisfacción del cliente y el camino para obtener una mayor rentabilidad del punto de venta.
     p.mb-4 La gestión estratégica del #[em merchandising], busca generar ventas por impulso en función de:
