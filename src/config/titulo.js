@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  '<i>Merchandising</i>, demostración y presentación en el punto de ventas'
