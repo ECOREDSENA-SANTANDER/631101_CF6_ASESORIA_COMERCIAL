@@ -62,33 +62,43 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row(titulo="1840").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1840
                   p.mb-4 Pequeños almacenes pudieron llevar el escaparatismo como escenario, el producto se exponía sin orden.
               .row(titulo="1852").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1852
                   p.mb-4 Nacimiento del gran almacén en Francia. 
               .row(titulo="1878").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1878
                   p.mb-4 Origen de los almacenes populares en los EE.UU.
               .row(titulo="1920").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1920
                   p.mb-4 Con la aparición del mercadeo, el escaparatismo se basaba en estudios de mercado y del consumidor.
               .row(titulo="1930").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1930
                   p.mb-4 Nacimiento de los supermercados en los EE.UU.
               .row(titulo="1950-1960").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1950-1960
                   p.mb-4 Se fortaleció el diseño en los escaparates.
               .row(titulo="1970").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1970
                   p.mb-4 El escaparate se convierte en el centro de la venta.
               .row(titulo="1980").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1980
                   p.mb-4 Se utiliza el término merchandising en los grandes almacenes.
               .row(titulo="1990").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 1990
                   p.mb-4 Se comienza con el  “minimalismo”, centrado en la venta de un único producto.
               .row(titulo="Hoy").align-items-center.justify-content-center
                 .col-md-10.mb-4.mb-md-0
+                  h4 Hoy
                   p.mb-4 Hoy día, se puede decir que el escaparate o exhibidor es el principal vendedor del producto en el punto de venta, porque logra que el cliente se detenga y le motive diferentes percepciones, haciendo que más personas ingresen al punto de venta.
 
     p.mb-5 El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
@@ -144,6 +154,7 @@
       .col-lg-9.col-sm-12.col-md-12
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Fabricante")
+            h4.mt-3.ps-3 Fabricante
             ul.lista-ul--color.fa-al.p-3
               li.mb-0 
                 i.fas.fa-check-circle
@@ -158,6 +169,7 @@
                 i.fas.fa-check-circle
                 span.mb-2 Relaciones en el canal entre F y D (Trade marketing).
           .tarjeta.color-secundario--borde.p-4(titulo="Distribuidor")
+            h4.mt-3.ps-3 Distribuidor
             ul.lista-ul--color.fa-al.p-3
               li.mb-0 
                 i.fas.fa-check-circle
@@ -172,6 +184,7 @@
                 i.fas.fa-check-circle
                 span.mb-2 Gestionar rotación y rentabilidad de los productos: ¿dónde y cómo?
           .tarjeta.color-secundario--borde.p-4(titulo="Cliente")
+            h4.mt-3.ps-3 Cliente
             ul.lista-ul--color.fa-al.p-3
               li.mb-0 
                 i.fas.fa-check-circle
@@ -432,7 +445,7 @@
     p.mb-4 La gestión estratégica del #[em merchandising], busca generar ventas por impulso en función de:
 
     .row.justify-content-center.mb-5
-      .col-lg-8.col-sm-12.col-md-12
+      .col-lg-10.col-sm-12.col-md-12
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 3. 
           | Funciones de la gestión estratégica
