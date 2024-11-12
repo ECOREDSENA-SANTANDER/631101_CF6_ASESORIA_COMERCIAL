@@ -7,7 +7,7 @@
         span 1
       h1 #[em Merchandising]
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-sm-12.col-md-8
         img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-lg-8.col-sm-12.col-md-12
@@ -39,7 +39,7 @@
 
     p.mb-5 El #[em merchandising], entonces, se puede definir como una técnica del marketing aplicada y desarrollada a fabricantes y distribuidores dirigida a estimular el deseo y producir la compra. Ahora bien, desde la perspectiva de la comunicación visual, el merchandising busca influir en el público a través de los sentidos, teniendo en cuenta que las personas reciben estímulos a través de los sentidos en 80% visuales, 10% estímulos sonoros y el otro 10% entre el tacto, olfato y gusto.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12
         .tarjeta.color-acento-contenido.p-3
           .row.justify-content-around.align-items-center
@@ -52,7 +52,7 @@
 
     p.mb-5 No obstante, esta técnica comercial comenzó con el surgimiento de los puntos de ventas modernos, en los que se aplicaban diversas acciones de visualización de los productos para potenciar la mercadería, así como la rápida rotación de inventarios. De esta manera, se destacan los siguientes hitos:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-5.col-sm-12.col-md-10
         img(src='@/assets/curso/temas/tema1/img2.png', alt='')
       .col-lg-7.col-sm-12.col-md-10
@@ -103,7 +103,7 @@
 
     p.mb-5 El #[em merchandising], como parte del proceso de comunicación, presenta la interacción entre dos elementos básicos, el punto de venta, la marca o el comerciante, con el cliente o comprador. Se ha convertido en una parte fundamental activa y dinámica de la estrategia de la empresa, en el que se tienen los siguientes alcances:    
 
-    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5
+    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5(data-aos="zoom-in")
       .row.justify-content-center
         .col-lg-10
           .titulo-sexto.color-secundario.mb-4
@@ -114,7 +114,7 @@
     p.mb-4 De acuerdo con su definición y objetivos, se puede determinar que la principal función del #[em merchandising] es #[b colocar, impulsar, hacer seguimiento y actualizar los productos, su exhibición y su publicidad.]
     p.mb-4 Entre las funciones del merchandising se encuentran las siguientes:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6.col-sm-12.col-md-10
         img(src='@/assets/curso/temas/tema1/img3.png', alt='')
       .col-lg-6.col-sm-12.col-md-12
@@ -145,12 +145,12 @@
             span.mb-0 
             Uso Uso adecuado del espacio en la estantería.
 
-    .cajon.color-acento-contenido.p-5.mb-5
+    .cajon.color-acento-contenido.p-5.mb-5(data-aos="zoom-in")
       p Sin embargo, existe otro el elemento del merchandising que es importante destacar, y es la relación entre el fabricante y distribuidor, en donde el distribuidor debe convertirse en un socio estratégico, con la capacidad de difundir las bondades del producto y de la marca, para atraer más consumidores al punto de venta, elemento que se combina con la publicidad del producto. 
 
     p.mb-5.text-center De ahí que se encuentren otras funciones que cumple el merchandising, a partir de los diferentes públicos, como se presenta a continuación:
         
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-9.col-sm-12.col-md-12
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Fabricante")
@@ -210,7 +210,7 @@
 
     p.mb-5 No hay clasificaciones absolutas en el mundo del #[em marketing], teniendo en cuenta que algunos autores y expertos lo clasifican de diferentes maneras. De acuerdo con el ciclo de vida del producto, existen cuatro clases de #[em merchandising]: de nacimiento, de ataque, de mantenimiento y de defensa; cada uno conlleva unas actividades relacionadas con el producto, así:
 
-    .row.mb-4
+    .row.mb-4(data-aos="zoom-in")
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
         .tarjeta.colorazulclaro.p-4
           .row.justify-content-center.p-4
@@ -294,7 +294,7 @@
     p.mb-4 De la misma forma, hay clases de #[em merchandising] en relación con el ciclo de vida del producto. Existen diferentes clases de productos para cada una de las necesidades de los consumidores que, de acuerdo con sus motivaciones, los pueden adquirir en cualquier momento.
     p.mb-5 Es importante identificar en el punto de venta cuáles productos pueden clasificarse en alguna de estas categorías:
     
-    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5
+    .row.fondocontenedor.align-items-center.justify-content-center.mt-5.mb-5(data-aos="zoom-in")
         .row.justify-content-center
           .col-lg-10
             PasosA.color-primario.mb-0(tipo="n")
@@ -366,7 +366,7 @@
 
     p.mb-4 Se denomina #[em merchandising] de gestión porque soporta las decisiones basado en cuatro áreas fundamentales: estudio del mercado, gestión del espacio, gestión del surtido y la comunicación en el punto de venta. Este tipo de #[em merchandising] implica los siguientes procesos:
 
-    .row.mb-4
+    .row.mb-4(data-aos="zoom-in")
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
         .tarjeta.colorazulclaro.p-4
           .row.justify-content-center.p-4
@@ -444,7 +444,7 @@
     p.mb-4 Un buen análisis y estudio del mercado, junto con la política comercial, una política clara de surtido y las políticas de comunicación, traen consigo la satisfacción del cliente y el camino para obtener una mayor rentabilidad del punto de venta.
     p.mb-4 La gestión estratégica del #[em merchandising], busca generar ventas por impulso en función de:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-sm-12.col-md-12
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 3. 

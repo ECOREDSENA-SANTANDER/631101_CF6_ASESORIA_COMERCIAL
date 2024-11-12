@@ -24,7 +24,7 @@
 
     p.mb-5.text-center Entre los propósitos de la exhibición, se tienen:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-sm-12.col-md-10
         img(src='@/assets/curso/temas/tema2/img2.png', alt='')
       .col-lg-6.col-sm-12.col-md-12
@@ -62,7 +62,7 @@
       .cajon.color-acento-contenido.p-4.mb-4
         p El espacio en el punto de venta juega un papel importante en la exhibición del producto, que puede organizarse de acuerdo con la disposición que se tenga en el lugar. El administrador, como responsable del sitio y de la exhibición, deberá organizarlo según las secciones, espacios de circulación, ubicación de zonas y puntos de venta fríos o calientes, ubicación de elementos externos al establecimiento y áreas complementarias.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10.col-md-12.col-sm-12
           .titulo-sexto.color-secundario.mb-4
             h5 Figura 4. 
@@ -72,7 +72,7 @@
 
     p.mb-4 Este análisis debe realizarse de acuerdo con el espacio en el punto de venta, y definir los tipos de exhibición que se pueden aplicar. Los consumidores realizan gran parte de las decisiones de compra directamente en el piso de ventas, por lo que, una exhibición efectiva de los productos puede influir en varias de ellas.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       TabsC.color-acento-botones
         .py-3.py-md-4(titulo="Exhibición vertical").mb-0
           .row.justify-content-center
@@ -106,7 +106,7 @@
     p De acuerdo con la estrategia del comercio, pueden emplearse otras formas de exhibición, haciendo una combinación de las anteriores, o bien organizando los productos de una forma creativa, que pueda resultar asertiva al generar ventas.
     p.mb-4 Otro factor importante al momento de exhibir el producto es el uso de las vitrinas, aquí se muestra el producto en diferentes ángulos y, a pesar de que el consumidor no pueda acceder al producto, igualmente se siente atraído por este. Las vitrinas pueden clasificarse de la siguiente forma:
 
-    .row.mb-4
+    .row.mb-4(data-aos="zoom-in")
       SlyderF(columnas="col-lg-6 col-xl-4 col-md-6").mb-4
         .tarjeta.colorazulclaro.p-4
           .row.justify-content-center.p-4
@@ -221,7 +221,7 @@
     p.mb-5 Este concepto ha estado enmarcado entre diferentes opiniones y aportes de profesionales del marketing. Entre las diferentes definiciones y acuerdos que se han escrito, se toman como referencia algunos de ellos para describir esta importante estrategia de mercadeo:
     h4.mb-5.text-center #[b Definiciones de P.O.P.]
 
-    .row.justify-content-center.align-items-center.mb-0.mt-4
+    .row.justify-content-center.align-items-center.mb-0.mt-4(data-aos="zoom-in")
       .col-lg-6.col-sm-12.col-md-12.mb-5.mb-lg-0
         .row
           .bloque-texto-f.px-5
@@ -249,7 +249,7 @@
               i.fas.fa-quote-right
             h4.text-regular.bloque-texto-f__texto.autor2.mb-5.text-center - (Kotler, Bower y Makens, 2008)
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in")
       .col-lg-10.col-sm-12.col-md-12
         .bloque-texto-f.color-primario.pt-4.px-5.mb-5
           .bloque-texto-f__comillas
