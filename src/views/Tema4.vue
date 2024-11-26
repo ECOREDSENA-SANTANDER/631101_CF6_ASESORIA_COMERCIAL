@@ -127,7 +127,8 @@
     .row.mb-5
       figure
         .video
-          iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/oxg7wHcdbrY?si=mMVYXSbGUDhD-mGO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+          iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/kVSt0II8ABE?si=AtWmo4ODjU_iSPnK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+        figcaption Video: Algunos tips importantes para un buen desarrollo de una presentación.
 
     p.text-center.mb-5 Así mismo, en cuanto al lenguaje corporal, se recomienda lo siguiente:
     .row.mb-5.mt-5

@@ -11,7 +11,7 @@
       .col-lg-4.col-sm-12.col-md-8
         img(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-lg-8.col-sm-12.col-md-12
-        p.mb-4 El #[em merchandising] es considerado, según Pérez, Pérez y Cristo (2018), como una técnica que incentiva la compra mediante la interacción del cliente con el producto. Las técnicas de comercialización han adquirido gran importancia en los puntos de venta para lograr la satisfacción con el cliente mediante incentivos de venta, lo que puede llamarse #[em merchandising] de seducción y el merchandising de gestión o de visualización.
+        p.mb-4 El #[em merchandising] es considerado, según Pérez, Pérez y Cristo (2018), como una técnica que incentiva la compra mediante la interacción del cliente con el producto. Las técnicas de comercialización han adquirido gran importancia en los puntos de venta para lograr la satisfacción con el cliente mediante incentivos de venta, lo que puede llamarse #[em merchandising] de seducción y el #[em merchandising] de gestión o de visualización.
         .cajon.color-acento-contenido.p-5.mb-4
           p El término #[em merchandising] se puede dividir en dos partes, #[em «merchandise»], que significa mercancía o mercadería, y la terminación #[em «-ing»], que significa acción. En este sentido, puede decirse que es el mercado en acción o producto en acción; dicho en otras palabras, el #[em merchandising] es el movimiento de la mercancía hacia el consumidor en el punto de venta.
 
@@ -29,7 +29,7 @@
           .row.align-items-center.justify-content-center.bgfondotema1.p-1
             .col-4.col-md-2.col-lg-4
               img.mt-4(src='@/assets/curso/temas/tema1/tar1-2.png', alt='')
-            p.text-center.p-4.mb-4 “El merchandising es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios en las cantidades susceptibles de facilitar la consecución de los objetivos de marketing de la empresa”. (Fernández y Pastor, 2007).
+            p.text-center.p-4.mb-4 “El #[em merchandising] es la implantación y el control necesario para la comercialización de bienes y servicios, en los lugares, en los momentos, en los precios en las cantidades susceptibles de facilitar la consecución de los objetivos de marketing de la empresa”. (Fernández y Pastor, 2007).
       .col-sm-12.col-lg-4.col-md-12.mb-4(data-aos="fade-right")
         .overflow-hidden.h-100.p-2
           .row.align-items-center.justify-content-center.bgfondotema1.p-1
@@ -37,7 +37,7 @@
               img.mt-4(src='@/assets/curso/temas/tema1/tar1-3.png', alt='')
             p.text-center.p-4.mb-5 “El marketing evoluciona para estimular la intención de compra (el merchandising) para provocar el deseo de poseer o consumir el producto a través de un escenario con una atmósfera adaptada a la mente del consumidor” (Palomares, 2009).
 
-    p.mb-5 El #[em merchandising], entonces, se puede definir como una técnica del marketing aplicada y desarrollada a fabricantes y distribuidores dirigida a estimular el deseo y producir la compra. Ahora bien, desde la perspectiva de la comunicación visual, el merchandising busca influir en el público a través de los sentidos, teniendo en cuenta que las personas reciben estímulos a través de los sentidos en 80% visuales, 10% estímulos sonoros y el otro 10% entre el tacto, olfato y gusto.
+    p.mb-5 El #[em merchandising], entonces, se puede definir como una técnica del #[em marketing] aplicada y desarrollada a fabricantes y distribuidores dirigida a estimular el deseo y producir la compra. Ahora bien, desde la perspectiva de la comunicación visual, el merchandising busca influir en el público a través de los sentidos, teniendo en cuenta que las personas reciben estímulos a través de los sentidos en 80% visuales, 10% estímulos sonoros y el otro 10% entre el tacto, olfato y gusto.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-12
