@@ -128,14 +128,6 @@ export default {
       link: 'https://digitk.areandina.edu.co/handle/areandina/3838',
     },
     {
-      tema: 'Tipos de <i>merchandising</i>',
-      referencia:
-        'Morgan, T., Bohigas, G. Rojals, M., y Landrove, S. (2016). Visual merchandising: escaparates e interiores comerciales. ',
-      tipo: 'Documento',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/45616',
-    },
-    {
       tema: 'Presentaciones',
       referencia: 'Apple. (2016). Apple – september event 2016. Youtube.',
       tipo: 'Video',
