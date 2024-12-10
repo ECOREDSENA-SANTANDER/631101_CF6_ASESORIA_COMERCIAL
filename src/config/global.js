@@ -239,7 +239,7 @@ export default {
     },
     {
       referencia:
-        'Kotler, P., Bower, J., y Makens, J. (2008). Marketing para el turismo. Pearson Prentice Hall. ',
+        'Kotler, P., Bower, J., y Makens, J. (2008). <i>Marketing</i> para el turismo. Pearson Prentice Hall. ',
       link: '',
     },
     {
